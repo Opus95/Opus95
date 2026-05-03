@@ -1,12 +1,12 @@
-# Merhaba, ben Opus 👋
+Merhaba, ben Opus 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+HTML+Developer;Linux+Mint+User;Git+%26+GitHub;Always+Learning...
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+HTML;Linux+Mint+User;Git+%26+GitHub;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 Hakkımda
+ 🧑‍💻 Hakkımda
 
 - 🖥️ **Linux Mint** ile çalışıyorum
 - 💻 **C++**, **Python** ve **HTML** geliştiriyorum
@@ -55,10 +55,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Opus95&color=00BFFF&style=for-the-badge&label=Profil+Görüntülenme" />
-</p>
+
 
 <p align="center">
- 
+  
 </p>
