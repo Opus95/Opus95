@@ -1,4 +1,4 @@
-Merhaba, ben Opus 👋
+<h1 align="center">Merhaba, ben Opus 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+HTML;Linux+Mint+User;Git+%26+GitHub;Always+Learning..." alt="Typing SVG" />
