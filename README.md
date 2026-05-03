@@ -33,12 +33,12 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Opus95&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opus95&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Opus95&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Rozetleri
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Opus95&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=00BFFF&style=for-the-badge&label=Profil+Görüntülenme" />
+  <img src="https://komarev.com/ghpvc/?username=Opus95&color=00BFFF&style=for-the-badge&label=Profil+Görüntülenme" />
 </p>
 
 <p align="center">
