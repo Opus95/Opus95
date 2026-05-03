@@ -1,7 +1,7 @@
 # Merhaba, ben Opus 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+HTML+Geliştirici;Linux+Mint+Kullanıcısı;Git+%26+GitHub+ile+Versiyon+Kontrolü;Öğrenmeye+Devam..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Python+%7C+HTML+Developer;Linux+Mint+User;Git+%26+GitHub;Always+Learning...
 </p>
 
 ---
