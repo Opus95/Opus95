@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Opus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=+%7C+Welcome+%7C+To;My;Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome;To;My;Profile" alt="Typing SVG" />
 </p>
 
 ---
