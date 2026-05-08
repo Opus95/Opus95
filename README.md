@@ -15,7 +15,7 @@
 - 🌱 *Açık Kaynak Projelere İlgi Duymaktayım.*
 - 🖥️ *İşletim Sistemi Olarak Linux Kullanmaktayım.*
 - 💻 **Bildiğim Proglamlama Dilleri:** `Python` · `C++` · `HTML/CSS`
-- 🧰 **Kullandığım Araçlar**: Git, GitHub, GCC, VS Code, Bash*
+- 🧰 **Kullandığım Araçlar**: *Git, GitHub, GCC, VS Code**
 
 ---
 
