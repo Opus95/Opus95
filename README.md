@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Hakkımda
 - 👨‍🎓  *Aktif Bir Öğrenci Olarak Yazılım Geliştiriyorum.*
-- 🌱 *Açık Kaynak Projelere Büyük Birİlgi Duyuyorum.*
+- 🌱 *Açık Kaynak Projelere Büyük Bir İlgi Duyuyorum.*
 - 🖥️ *İşletim Sistemi Olarak Linux Kullanmaktayım.*
 - 💻 **Bildiğim Proglamlama Dilleri:** `Python` · `C++` · `HTML/CSS`
 - 🧰 **Kullandığım Araçlar**: *Git, GitHub,  VS Code*
