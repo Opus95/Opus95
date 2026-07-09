@@ -61,5 +61,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Opus95&theme=github-dark" width="88%" alt="Opus95's Activity Graph" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Opus95&theme=2077" width="88%" alt="Opus95's Profile Details" />
+</p>
+
 ---
 
