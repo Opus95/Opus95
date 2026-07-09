@@ -56,14 +56,11 @@
 
 ## 📈 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Opus95&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6BCB77&icon_color=6BCB77" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opus95&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6BCB77" width="40%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Opus95&theme=radical&hide_border=true&background=0D1117&stroke=6BCB77&ring=6BCB77&fire=6BCB77&currStreakNum=FFFFFF" width="70%" />
-</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Opus95&theme=2077" width="88%" alt="Opus95's Profile Details" />
+</p>
 
 ---
 
